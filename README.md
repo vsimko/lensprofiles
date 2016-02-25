@@ -3,5 +3,5 @@ The coeficients for correcting lens distortions can also be used in other image 
 
 Currently, these sensor sizes / mounts are provided:
 
-* [Micro Four Thirds](lenses-microfourthirds.md)
-* [Sony full frame](lenses-sonyemount.md)
+* [Micro Four Thirds](lenses-microfourthirds.md) (multiplier 2.0)
+* [Sony Full Frame](lenses-sonyemount.md) (multiplier 1.0)
