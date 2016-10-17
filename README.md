@@ -5,3 +5,6 @@ Currently, these sensor sizes / mounts are supported:
 
 * [Micro Four Thirds](lenses-microfourthirds.md) (multiplier 2.0)
 * [Sony Full Frame](lenses-sonyemount.md) (multiplier 1.0)
+
+Lens calibration on-line:
+- http://wilson.bronger.org/calibration
