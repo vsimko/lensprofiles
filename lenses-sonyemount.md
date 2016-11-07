@@ -42,7 +42,7 @@ begin lens
   aperture: 2.8
   calibrated: true
   menu_lens: Vario-Sonnar T* 24-70mm f/2.8 ZA SSM
-  cal_abc:  24   0.00 0.00  0.000000
+  cal_abc:  24   0.00 -0.007  -0.027
   cal_abc:  70   0.00 0.00  0.000000
 end
 ```
