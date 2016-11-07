@@ -48,6 +48,14 @@ end
 ```
 
 ### Samyang 14mm f/2.8
+This lens comes with a complicated distortion which can be corrected by the following profile taken from [Lensfun] database.
+See also:
+ - [Lensfun]
+ - [Blogpost]
+
+[Lensfun]: http://lensfun.sourceforge.net/lenslist/
+[Blogpost]: http://kyleclements.com/blog/2013/new-lens-samyang-14mm-f2-8-correcting-the-moustache-distortion/
+
 ```
 begin lens
   group: sonyemount
