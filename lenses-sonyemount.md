@@ -46,3 +46,15 @@ begin lens
   cal_abc:  70   0.00 0.00  0.000000
 end
 ```
+
+### Samyang 14mm f/2.8
+```
+begin lens
+  group: sonyemount
+  multiplier: 1.0
+  aperture: 2.8
+  calibrated: true
+  menu_lens: Samyang 14mm f/2.8
+  cal_abc:  14   0.04015 -0.07043 -0.05466
+end
+```
